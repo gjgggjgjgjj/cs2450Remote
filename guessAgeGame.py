@@ -2,6 +2,11 @@ import random
 
 print("Hello! I am going to try to guess your age.")
 name = input("What is your name? ")
+
+
+def main():
+    ageGuesser()
+
 def ageGuesser():
     while True:
         age = random.randint(15, 30)
@@ -10,7 +15,7 @@ def ageGuesser():
 
         if answer == 'y':
             print(name + " is " + str(age) + " years old.")
-            newGame()
+            return
         else:
             randResponse = random.randint(1,8)
             if randResponse == 8:
@@ -22,13 +27,3 @@ def ageGuesser():
             if randResponse < 6:
                 print("rats")
 
-def newGame():
-    print("wanna play again?? y/n")
-
-    yessir = input()
-    if yessir == y:
-        ageGuesser()
-    else:
-        return
-
-ageGuesser()
