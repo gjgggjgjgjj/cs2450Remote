@@ -23,3 +23,10 @@ learned more in class about branches and how to use them effectively
 so that we don't ruin main for other people until we are done
 with our part then we can merge it back into main when reviewed by
 other team members
+
+2/26/2026
+its cool watching all the presentations 
+People have so many unique ideas
+
+We are now learning about the process of solving problems
+in class, through our repo with issues and what not.
