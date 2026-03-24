@@ -30,3 +30,16 @@ People have so many unique ideas
 
 We are now learning about the process of solving problems
 in class, through our repo with issues and what not.
+
+3/24/2026
+currently learning new coding principles\
+couple examples are as follows
+* does testing improve quality?
+      -does it do the right thing?
+      -does it keep working?
+      -can humans actually use it? is it easy?
+      -is it fast enough?
+      -can we change it later?
+      -is data protected?
+
+
